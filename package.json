@@ -1,0 +1,24 @@
+{
+  "name": "text.baidu",
+  "version": "1.0.0",
+  "description": "the test of baidu.com",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenby/baidu.text.git"
+  },
+  "author": "chenby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenby/baidu.text/issues"
+  },
+  "homepage": "https://github.com/chenby/baidu.text#readme"
+}
